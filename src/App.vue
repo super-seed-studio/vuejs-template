@@ -8,10 +8,11 @@
   <div id="app">
     <img class="logo" src="./assets/logo.png">
     <hello></hello>
-    <p>
-      Welcome to your Vue.js app. This page render by ejs. To get started, take a look at the
-      <a href="https://github.com/vuejs-templates/webpack#folder-structure" target="_blank">README</a>
-      of this template. If you have any issues with the setup, please file an issue at this template's repository.
+    <ul class="fetures">
+      <li>Use ES6 & Less for js & css</li>
+      <li>Use ejs for render template</li>
+      <li>More infomation visit <a href="https://github.com/super-seed-studio/vuejs-template">here</a></li>
+    </ul>
     </p>
     <p>
       For advanced configurations, checkout the docs for
@@ -46,6 +47,14 @@ export default {
   max-width: 600px;
   font-family: Helvetica, sans-serif;
   text-align: center;
+}
+.ejs {
+  color: green;
+}
+.fetures {
+  width: 210px;
+  margin: 0 auto;
+  text-align: left;
 }
 </style>
 
