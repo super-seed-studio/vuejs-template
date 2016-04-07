@@ -25,6 +25,8 @@
     "cross-env": "^1.0.7",
     "cross-spawn": "^2.1.5",
     "css-loader": "^0.23.0",
+    "ejs": "^2.4.1",
+    "ejs-compiled-loader": "^2.1.1",
     "eslint": "^2.0.0",
     "eslint-config-standard": "^5.1.0",
     "eslint-friendly-formatter": "^1.2.2",
