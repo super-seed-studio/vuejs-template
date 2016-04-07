@@ -1,10 +1,20 @@
-# myvue
+# vuejs-template
 
-> A Vue.js project
+> A Vue.js project template
+
+## Fetures
+- supports ES6 & less synax
+- supports ejs templace engine
+- supports Shadow DOM format by vue-loader
+- supports hot reload by webpack & webpack-dev-middleware
+- supports unit & e2e test
 
 ## Build Setup
 
 ``` bash
+#install global dependecies
+npm install -g vue-cli webpack karma
+
 # install dependencies
 npm install
 
