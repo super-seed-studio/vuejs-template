@@ -2,7 +2,7 @@
 
 > A Vue.js project template
 
-## Fetures
+## Features
 - supports ES6 & less synax
 - supports ejs templace engine
 - supports Shadow DOM format by vue-loader
